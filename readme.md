@@ -7,3 +7,6 @@
 <li><a href="https://nyasama.com/" >喵玉殿首页（导航页）</a></li>
 <li><a href="https://thwiki.cc/%E9%A6%96%E9%A1%B5" >thwiki（导航页）</a></li>
 </ol>
+
+# thbgm.dat播放器
+https://github.com/BearKidsTeam/thplayer
